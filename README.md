@@ -1,1 +1,1 @@
-# ticker-triager
+# ticket-triager
